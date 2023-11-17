@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\bin\Debug\net6.0\Collection_Homework.exe
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\bin\Debug\net6.0\Collection_Homework.deps.json
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\bin\Debug\net6.0\Collection_Homework.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\bin\Debug\net6.0\Collection_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\bin\Debug\net6.0\Collection_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\refint\Collection_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\Collection_Homework.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\Collections_P418\Collection_Homework\Collection_Homework\obj\Debug\net6.0\ref\Collection_Homework.dll
